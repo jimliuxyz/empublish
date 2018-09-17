@@ -5,9 +5,9 @@
 # [搞懂px與pt](https://medium.com/uxabc/understanding-ui-units-8acdc0575388)
 
 #### 快速結論
-- 大約**163pixel/Inch(英吋)** 即**163ppi** 稱為**@1x**(1倍)
-- 1pt固定為**1/72Inch**大小
-- 在**@1x**中1pt就是**2x2pixel**
+- 大約`163pixel/Inch(英吋)` 即`163ppi` 稱為`@1x`(1倍)
+- 1pt固定為`1/72Inch大小`
+- 在`@1x`中的1pt就是`2x2pixel`
 
 ---
 # 解析度
